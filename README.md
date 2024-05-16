@@ -5,7 +5,6 @@
 Me encuentro estudiando la ingenieria en Mecatrónica en la Universidad Tecnológica de la Región Norte de Guerrero</h3>
 
 - 📫 Cómo contactarme *5721100@utrng.edu .mx* o *zulma7737@gmail.com*
--                      *7361181369*
 
 <!--
 **Zulma-Sandoval/Zulma-Sandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...zul
+- 📫 How to reach me: 7361181369
+- 😄 Pronouns: zul
 - ⚡ Fun fact: ...
 -->
