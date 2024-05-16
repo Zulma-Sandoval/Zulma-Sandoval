@@ -4,7 +4,8 @@
 <h3 align="center">Soy una persona sociable, me gusta trabajar en equipo y sola.me gustan muchos los perritos de entre todos los animales que existen ellos son mis favoritos, me gusta escuchar música, leer y conocer nuevos lugares.
 Me encuentro estudiando la ingenieria en Mecatrónica en la Universidad Tecnológica de la Región Norte de Guerrero</h3>
 
-- 📫 Cómo contactarme *5721100@utrng.edu .mx*
+- 📫 Cómo contactarme *5721100@utrng.edu .mx* o *zulma7737@gmail.com*
+-                      *7361181369*
 
 <!--
 **Zulma-Sandoval/Zulma-Sandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
